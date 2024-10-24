@@ -1,0 +1,12 @@
+freelane_name  
+amount
+ 
+total_income 
+total_out 
+residual 
+payment_made
+amount
+residual_amount
+Accounts_Screen
+accounts
+total_income
